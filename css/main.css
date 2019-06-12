@@ -1,0 +1,33 @@
+.h3 {
+    text-align: center;
+    font-family: Arial;
+    padding: 20px;
+}
+
+.h4 {
+    text-align: center;
+    font-family: Arial;
+    padding: 20px;
+}
+
+.first {
+    background: transparent;
+    width: 200px;
+    height: 270px;
+    border: solid 1px #3c3c3c;
+    border-radius: 30px;
+    text-align: center;
+    font-family: Arial;
+    margin: 15px;
+}
+
+.image {
+    width: 120px;
+    height: 120px;
+    display:block;
+    padding: 40px;
+}
+.catalog {
+    display: inline-flex;
+    flex-wrap: wrap;
+}
